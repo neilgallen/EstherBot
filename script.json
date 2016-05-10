@@ -6,11 +6,18 @@
     "I LOVE YOU": "You're pretty great, but let's not jump into anything too quickly.",
     "CONNECT ME": "",
     "DISCONNECT": "Hello. Checking in, NeilBot is back.",
-    "STRENGTHS": "Great question! Neil would list his strengths as Ideation, Analytics, Strategy, Individualization, and Learning",
+    "STRENGTHS": "Great question! Neil would list his strengths as IDEATION, ANALYTICS, STRATEGY, INDIVIDUALIZATION, and LEARNING",
     "INTERESTS": "Neil recently got married, so he loves spending time with his lovely wife and their dog. He's a frequent golfer and does a decent amount of travel and loves live sporting events.",
     "EDUCATION": "Neil graduated from the University of Alabama (ROLL TIDE!) with a Bachelors in Industrial Engineering. He then went to work for AMERICAN EXPRESS",
     "EMPLOYMENT": "Neil joined AMERICAN EXPRESS as an Industrial Engineer in 2005 in Salt Lake City, Utah. He supported a number of projects focused on process improvement for specific New Account functions. He later moved to FLORIDA",
     "FLORIDA": "In 2013 Neil moved to Florida and began supporting various BACK OFFICE functions and begun taking on people leadership roles. He especially loved working on the INTERN program",
     "INTERN": "Neil took leadership of the department intern program in 2015. That included recruiting and also monitoring each summer intern during their tenure. He's most proud that three of the four interns accepted full time offers after the summer.",
-    "BACK OFFICE": "Neil has worked on multiple back office projects, including implementing an Optical Character Recognition capability in the UK, and designing a communication strategy for Dispute cases"
+    "BACK OFFICE": "Neil has worked on multiple back office projects, including implementing an Optical Character Recognition capability in the UK, and designing a communication strategy for Dispute cases",
+    "WORK": "Neil is currently a manager in Network Engineering and Optimization (NEO) at AMERICAN EXPRESS",
+    "AMERICAN EXPRESS": "American Express is a global financial services provider. Neil has worked there in various capacities since 2005. Learn more about his EMPLOYMENT."
+    
+    
+    
+    
+    
 }
